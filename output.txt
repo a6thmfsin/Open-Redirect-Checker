@@ -1,0 +1,12 @@
+200 https://whatsnew.krisp.ai/?view=https://google.com/%0A
+404 https://krisp.ai/two_optimizer_bekon?url=https://google.com/%0A
+200 https://krisp.ai/careers/
+404 https://krisp.ai/wp-json/oembed/1.0/embed?url=https://google.com/%0A
+403 https://help.krisp.ai/hc/change_language/ja?return_to=https://google.com/%0A
+403 https://help.krisp.ai/hc/change_language/ja?return_to=https://google.com/%0A
+403 https://help.krisp.ai/hc/ja/signin?return_to=https://google.com/%0A
+403 https://help.krisp.ai/hc/ja/signin?return_to=https://google.com/%0A
+404 https://krisp.ai/blog/wp-json/oembed/1.0/embed?url=https://google.com/%0A
+200 https://help.krisp.ai/access/unauthenticated?return_to=https://google.com/%0A
+200 https://help.krisp.ai/access/unauthenticated?return_to=https://google.com/%0A
+404 https://krisp.ai/ngx_pagespeed_beacon?url=https://google.com/%0A
